@@ -1,5 +1,151 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fonts-modification version="1">
+  <family customizationType="new-named-family" name="google-sans">
+    <font weight="400" style="normal">GoogleSans-Regular.ttf
+      <axis tag="GRAD" stylevalue="0"/>
+      <axis tag="opsz" stylevalue="18.0"/>
+      <axis tag="wght" stylevalue="400"/>
+    </font>
+    <font weight="500" style="normal">GoogleSans-Regular.ttf
+      <axis tag="GRAD" stylevalue="0"/>
+      <axis tag="opsz" stylevalue="18.0"/>
+      <axis tag="wght" stylevalue="500"/>
+    </font>
+    <font weight="600" style="normal">GoogleSans-Regular.ttf
+      <axis tag="GRAD" stylevalue="0"/>
+      <axis tag="opsz" stylevalue="18.0"/>
+      <axis tag="wght" stylevalue="600"/>
+    </font>
+    <font weight="700" style="normal">GoogleSans-Regular.ttf
+      <axis tag="GRAD" stylevalue="0"/>
+      <axis tag="opsz" stylevalue="18.0"/>
+      <axis tag="wght" stylevalue="700"/>
+    </font>
+    <font weight="400" style="italic">GoogleSans-Italic.ttf
+      <axis tag="GRAD" stylevalue="0"/>
+      <axis tag="opsz" stylevalue="18.0"/>
+      <axis tag="wght" stylevalue="400"/>
+    </font>
+    <font weight="500" style="italic">GoogleSans-Italic.ttf
+      <axis tag="GRAD" stylevalue="0"/>
+      <axis tag="opsz" stylevalue="18.0"/>
+      <axis tag="wght" stylevalue="500"/>
+    </font>
+    <font weight="600" style="italic">GoogleSans-Italic.ttf
+      <axis tag="GRAD" stylevalue="0"/>
+      <axis tag="opsz" stylevalue="18.0"/>
+      <axis tag="wght" stylevalue="600"/>
+    </font>
+    <font weight="700" style="italic">GoogleSans-Italic.ttf
+      <axis tag="GRAD" stylevalue="0"/>
+      <axis tag="opsz" stylevalue="18.0"/>
+      <axis tag="wght" stylevalue="700"/>
+    </font>
+  </family>
+
+  <family customizationType="new-named-family" name="google-sans-medium">
+    <font weight="500" style="normal">GoogleSans-Regular.ttf
+      <axis tag="GRAD" stylevalue="0"/>
+      <axis tag="opsz" stylevalue="18.0"/>
+      <axis tag="wght" stylevalue="500"/>
+    </font>
+  </family>
+
+  <family customizationType="new-named-family" name="google-sans-bold">
+    <font weight="700" style="normal">GoogleSans-Regular.ttf
+      <axis tag="GRAD" stylevalue="0"/>
+      <axis tag="opsz" stylevalue="18.0"/>
+      <axis tag="wght" stylevalue="700"/>
+    </font>
+  </family>
+
+  <family customizationType="new-named-family" name="google-sans-text">
+    <font weight="400" style="normal">GoogleSans-Regular.ttf
+      <axis tag="GRAD" stylevalue="0"/>
+      <axis tag="opsz" stylevalue="17.0"/>
+      <axis tag="wght" stylevalue="400"/>
+    </font>
+    <font weight="500" style="normal">GoogleSans-Regular.ttf
+      <axis tag="GRAD" stylevalue="0"/>
+      <axis tag="opsz" stylevalue="17.0"/>
+      <axis tag="wght" stylevalue="500"/>
+    </font>
+    <font weight="600" style="normal">GoogleSans-Regular.ttf
+      <axis tag="GRAD" stylevalue="0"/>
+      <axis tag="opsz" stylevalue="17.0"/>
+      <axis tag="wght" stylevalue="600"/>
+    </font>
+    <font weight="700" style="normal">GoogleSans-Regular.ttf
+      <axis tag="GRAD" stylevalue="0"/>
+      <axis tag="opsz" stylevalue="17.0"/>
+      <axis tag="wght" stylevalue="700"/>
+    </font>
+    <font weight="400" style="italic">GoogleSans-Italic.ttf
+      <axis tag="GRAD" stylevalue="0"/>
+      <axis tag="opsz" stylevalue="17.0"/>
+      <axis tag="wght" stylevalue="400"/>
+    </font>
+    <font weight="500" style="italic">GoogleSans-Italic.ttf
+      <axis tag="GRAD" stylevalue="0"/>
+      <axis tag="opsz" stylevalue="17.0"/>
+      <axis tag="wght" stylevalue="500"/>
+    </font>
+    <font weight="600" style="italic">GoogleSans-Italic.ttf
+      <axis tag="GRAD" stylevalue="0"/>
+      <axis tag="opsz" stylevalue="17.0"/>
+      <axis tag="wght" stylevalue="600"/>
+    </font>
+    <font weight="700" style="italic">GoogleSans-Italic.ttf
+      <axis tag="GRAD" stylevalue="0"/>
+      <axis tag="opsz" stylevalue="17.0"/>
+      <axis tag="wght" stylevalue="700"/>
+    </font>
+  </family>
+
+  <family customizationType="new-named-family" name="google-sans-text-medium">
+    <font weight="500" style="normal">GoogleSans-Regular.ttf
+      <axis tag="GRAD" stylevalue="0"/>
+      <axis tag="opsz" stylevalue="17.0"/>
+      <axis tag="wght" stylevalue="500"/>
+    </font>
+  </family>
+
+  <family customizationType="new-named-family" name="google-sans-text-bold">
+    <font weight="700" style="normal">GoogleSans-Regular.ttf
+      <axis tag="GRAD" stylevalue="0"/>
+      <axis tag="opsz" stylevalue="17.0"/>
+      <axis tag="wght" stylevalue="700"/>
+    </font>
+  </family>
+
+  <family customizationType="new-named-family" name="google-sans-text-italic">
+    <font weight="400" style="italic">GoogleSans-Italic.ttf
+      <axis tag="GRAD" stylevalue="0"/>
+      <axis tag="opsz" stylevalue="17.0"/>
+      <axis tag="wght" stylevalue="400"/>
+    </font>
+  </family>
+
+  <family customizationType="new-named-family" name="google-sans-text-medium-italic">
+    <font weight="500" style="italic">GoogleSans-Italic.ttf
+      <axis tag="GRAD" stylevalue="0"/>
+      <axis tag="opsz" stylevalue="17.0"/>
+      <axis tag="wght" stylevalue="500"/>
+    </font>
+  </family>
+
+  <family customizationType="new-named-family" name="google-sans-text-bold-italic">
+    <font weight="700" style="italic">GoogleSans-Italic.ttf
+      <axis tag="GRAD" stylevalue="0"/>
+      <axis tag="opsz" stylevalue="17.0"/>
+      <axis tag="wght" stylevalue="700"/>
+    </font>
+  </family>
+
+  <family customizationType="new-named-family" name="google-sans-clock">
+    <font>GoogleSansClock-Regular.ttf</font>
+  </family>
+
     <family customizationType="new-named-family" name="lato">
         <font weight="400" style="normal">Lato-Regular.ttf</font>
         <font weight="400" style="italic">Lato-Italic.ttf</font>
@@ -21,4 +167,160 @@
     </family>
     <alias name="rubik-medium" to="rubik" weight="500" />
     <alias name="rubik-bold" to="rubik" weight="700" />
+    
+  <family customizationType="new-named-family" name="inter">
+    <font weight="100" style="normal">Inter-VF.ttf
+      <axis tag="slnt" stylevalue="0"/>
+      <axis tag="wdth" stylevalue="100"/>
+      <axis tag="wght" stylevalue="100"/>
+    </font>
+    <font weight="100" style="italic">Inter-VF.ttf
+      <axis tag="slnt" stylevalue="-10"/>
+      <axis tag="wdth" stylevalue="100"/>
+      <axis tag="wght" stylevalue="100"/>
+    </font>
+    <font weight="200" style="normal">Inter-VF.ttf
+      <axis tag="slnt" stylevalue="0"/>
+      <axis tag="wdth" stylevalue="100"/>
+      <axis tag="wght" stylevalue="200"/>
+    </font>
+    <font weight="200" style="italic">Inter-VF.ttf
+      <axis tag="slnt" stylevalue="-10"/>
+      <axis tag="wdth" stylevalue="100"/>
+      <axis tag="wght" stylevalue="200"/>
+    </font>
+    <font weight="300" style="normal">Inter-VF.ttf
+      <axis tag="slnt" stylevalue="0"/>
+      <axis tag="wdth" stylevalue="100"/>
+      <axis tag="wght" stylevalue="300"/>
+    </font>
+    <font weight="300" style="italic">Inter-VF.ttf
+      <axis tag="slnt" stylevalue="-10"/>
+      <axis tag="wdth" stylevalue="100"/>
+      <axis tag="wght" stylevalue="300"/>
+    </font>
+    <font weight="400" style="normal">Inter-VF.ttf
+      <axis tag="slnt" stylevalue="0"/>
+      <axis tag="wdth" stylevalue="100"/>
+      <axis tag="wght" stylevalue="400"/>
+    </font>
+    <font weight="400" style="italic">Inter-VF.ttf
+      <axis tag="slnt" stylevalue="-10"/>
+      <axis tag="wdth" stylevalue="100"/>
+      <axis tag="wght" stylevalue="400"/>
+    </font>
+    <font weight="500" style="normal">Inter-VF.ttf
+      <axis tag="slnt" stylevalue="0"/>
+      <axis tag="wdth" stylevalue="100"/>
+      <axis tag="wght" stylevalue="500"/>
+    </font>
+    <font weight="500" style="italic">Inter-VF.ttf
+      <axis tag="slnt" stylevalue="-10"/>
+      <axis tag="wdth" stylevalue="100"/>
+      <axis tag="wght" stylevalue="500"/>
+    </font>
+    <font weight="600" style="normal">Inter-VF.ttf
+      <axis tag="slnt" stylevalue="0"/>
+      <axis tag="wdth" stylevalue="100"/>
+      <axis tag="wght" stylevalue="600"/>
+    </font>
+    <font weight="600" style="italic">Inter-VF.ttf
+      <axis tag="slnt" stylevalue="-10"/>
+      <axis tag="wdth" stylevalue="100"/>
+      <axis tag="wght" stylevalue="600"/>
+    </font>
+    <font weight="700" style="normal">Inter-VF.ttf
+      <axis tag="slnt" stylevalue="0"/>
+      <axis tag="wdth" stylevalue="100"/>
+      <axis tag="wght" stylevalue="700"/>
+    </font>
+    <font weight="700" style="italic">Inter-VF.ttf
+      <axis tag="slnt" stylevalue="-10"/>
+      <axis tag="wdth" stylevalue="100"/>
+      <axis tag="wght" stylevalue="700"/>
+    </font>
+    <font weight="800" style="normal">Inter-VF.ttf
+      <axis tag="slnt" stylevalue="0"/>
+      <axis tag="wdth" stylevalue="100"/>
+      <axis tag="wght" stylevalue="800"/>
+    </font>
+    <font weight="800" style="italic">Inter-VF.ttf
+      <axis tag="slnt" stylevalue="-10"/>
+      <axis tag="wdth" stylevalue="100"/>
+      <axis tag="wght" stylevalue="800"/>
+    </font>
+    <font weight="900" style="normal">Inter-VF.ttf
+      <axis tag="slnt" stylevalue="0"/>
+      <axis tag="wdth" stylevalue="100"/>
+      <axis tag="wght" stylevalue="900"/>
+    </font>
+    <font weight="900" style="italic">Inter-VF.ttf
+      <axis tag="slnt" stylevalue="-10"/>
+      <axis tag="wdth" stylevalue="100"/>
+      <axis tag="wght" stylevalue="900"/>
+    </font>
+  </family>
+  <alias name="inter-medium" to="inter" weight="500" />
+
+  <family customizationType="new-named-family" name="opposans">
+    <font weight="100" style="normal">OppoSans-En-Regular.ttf
+      <axis tag="wght" stylevalue="200" />
+    </font>
+    <font weight="300" style="normal">OppoSans-En-Regular.ttf
+      <axis tag="wght" stylevalue="350" />
+    </font>
+    <font weight="400" style="normal">OppoSans-En-Regular.ttf
+      <axis tag="wght" stylevalue="550" />
+    </font>
+    <font weight="500" style="normal">OppoSans-En-Regular.ttf
+      <axis tag="wght" stylevalue="650" />
+    </font>
+    <font weight="700" style="normal">OppoSans-En-Regular.ttf
+      <axis tag="wght" stylevalue="800" />
+    </font>
+    <font weight="900" style="normal">OppoSans-En-Regular.ttf
+      <axis tag="wght" stylevalue="900" />
+    </font>
+  </family>
+  <alias name="opposans-medium" to="opposans" weight="500" />
+
+  <family customizationType="new-named-family" name="harmonysans">
+    <font weight="100" style="normal">HarmonyOS-Sans.ttf
+        <axis tag="wght" stylevalue="100" />
+    </font>
+    <font weight="100" style="italic">HarmonyOS-Sans-Italic.ttf
+        <axis tag="wght" stylevalue="100" />
+    </font>
+    <font weight="300" style="normal">HarmonyOS-Sans.ttf
+        <axis tag="wght" stylevalue="247" />
+    </font>
+    <font weight="300" style="italic">HarmonyOS-Sans-Italic.ttf
+        <axis tag="wght" stylevalue="247" />
+    </font>
+    <font weight="400" style="normal">HarmonyOS-Sans.ttf
+        <axis tag="wght" stylevalue="400" />
+    </font>
+    <font weight="400" style="italic">HarmonyOS-Sans-Italic.ttf
+        <axis tag="wght" stylevalue="400" />
+    </font>
+    <font weight="500" style="normal">HarmonyOS-Sans.ttf
+        <axis tag="wght" stylevalue="500" />
+    </font>
+    <font weight="500" style="italic">HarmonyOS-Sans-Italic.ttf
+        <axis tag="wght" stylevalue="500" />
+    </font>
+    <font weight="700" style="normal">HarmonyOS-Sans.ttf
+        <axis tag="wght" stylevalue="706" />
+    </font>
+    <font weight="700" style="italic">HarmonyOS-Sans-Italic.ttf
+        <axis tag="wght" stylevalue="706" />
+    </font>
+    <font weight="900" style="normal">HarmonyOS-Sans.ttf
+        <axis tag="wght" stylevalue="844" />
+    </font>
+    <font weight="900" style="italic">HarmonyOS-Sans-Italic.ttf
+        <axis tag="wght" stylevalue="844" />
+    </font>
+  </family>
+  <alias name="harmonysans-medium" to="harmonysans" weight="500"/>
 </fonts-modification>
